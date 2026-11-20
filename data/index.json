@@ -42089,6 +42089,27 @@
           "read_on": "2026-11-12"
         }
       ]
+    },
+    {
+      "vendor": "Hostim.dev",
+      "category": "Cloud Hosting",
+      "description": "Docker PaaS on bare metal in Germany (EU). Permanent free plans for managed services, with no limit on the number of instances: PostgreSQL 256 MB, MySQL 256 MB, Redis 128 MB and a 1 GB persistent volume. Apps have no free plan: shared app plans start at EUR 2.50 a month (1 vCPU, 1 GB RAM), dedicated from EUR 18. New accounts get a free 5-day trial project. Containers never sleep; no egress or build-minute fees.",
+      "tier": "Free",
+      "url": "https://hostim.dev/docs/billing/pricing-model",
+      "tags": [
+        "hosting",
+        "paas",
+        "docker",
+        "database",
+        "postgres",
+        "mysql",
+        "redis",
+        "eu",
+        "gdpr",
+        "heroku-alternative",
+        "render-alternative"
+      ],
+      "verifiedDate": "2026-11-20"
     }
   ],
   "changes": []
